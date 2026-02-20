@@ -156,7 +156,7 @@ const events = [
 
     // --- 农历事件 ---
     { name: "四月庙",   type: "lunar", date: "04-15" }, // 农历四月十五
-    { name: "结婚十二周年", type: "lunar", date: "07-20" }, // 农历七月二十,2026年是结婚十二周年
+    { name: "结婚十三周年", type: "lunar", date: "07-20" }, // 农历七月二十,2026年是结婚十三周年
     { name: "妈生日",   type: "lunar", date: "07-22" }, // 农历七月二十二
     { name: "芳生日",   type: "lunar", date: "08-19" }, // 农历八月十九
     { name: "贝生日",   type: "lunar", date: "08-21" }, // 农历八月二十一
